@@ -52,5 +52,10 @@ Docker container'ı çalıştırıldıktan sonra aşağıdaki komut çalıştır
 
 İkinci adım gerçekleştirildikten sonra Docker'ın uygulamasından bir terminal penceresi daha açılır. Burada da aşağıdaki komutlar çalıştırılarak Twitter API'ı çalıştırılıp sonuçlar ilk açılan terminal penceresinden gözlemlenebilir.
 
+Komut kullanımında argüman olarak görüntülenmek istenen topic girilmelidir. Twitter gündeminde olanlardan biri seçilebililir.
+Örnek: #karyagisi için
+
+    python3 tweet.py karyagisi
+
     cd /home/Twitter
-    python3 tweet.py
+    python3 tweet.py trend
