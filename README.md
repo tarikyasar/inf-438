@@ -5,6 +5,7 @@
 Bu imajın kurulumu için bilgisayarınızda Docker'ın kurulu olması gerekmektedir. Linux ve Mac'te ek işlem gerekmezken Windows için Docker yüklemeden önce Windows Subsystem For Linux (WSL) yüklenmesi gerekmektedir.
 
 [WSL Kurulumu](https://docs.microsoft.com/en-us/windows/wsl/install)
+
 [Docker Kurulumu](https://www.docker.com/get-started)
 
 Docker kurulduktan sonra bu repository sağ üstten ister zip olarak ister terminalden git clone komutuyla lokale indirilir.
